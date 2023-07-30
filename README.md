@@ -1,2 +1,6 @@
 # computer-vision-hacking
-fun computer vision hacking space
+Fun computer vision hacking space
+
+Building some random cv projects based on these tutorials:
+- https://www.youtube.com/watch?v=2FYm3GOonhk
+- 
